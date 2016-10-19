@@ -1,0 +1,29 @@
+web_nginx:
+  image: centos6:nginx_8
+  restart: always
+  volumes:
+    - /root/dockerfile/nginx/conf/:/usr/local/nginx/conf/
+    - /root/dockerfile/nginx/html/:/var/www/html/
+  ports:
+    - 80:80
+  links:
+    - web_php
+
+web_php:
+  image: centos6:php_12
+  restart: always
+  volumes:
+    - /root/dockerfile/php/etc/:/usr/local/php/etc/
+    - /root/dockerfile/php/webphp/:/var/www/html/webphp/
+  expose:
+    - 9000
+  links:
+    - web_mysql
+
+web_mysql:
+  image: centos6:mysql_5
+  restart: always
+  ports:
+    - 22 
+  expose:
+    - 3306
