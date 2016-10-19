@@ -1,0 +1,36 @@
+2016-10-19 03:20:25,539 CRIT Supervisor running as root (no user in config file)
+2016-10-19 03:20:25,542 INFO supervisord started with pid 1
+2016-10-19 03:20:26,545 INFO spawned: 'php' with pid 8
+2016-10-19 03:20:26,547 INFO spawned: 'sshd' with pid 9
+2016-10-19 03:20:27,637 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-10-19 03:20:27,637 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-10-19 03:22:20,155 CRIT Supervisor running as root (no user in config file)
+2016-10-19 03:22:20,159 INFO supervisord started with pid 1
+2016-10-19 03:22:21,162 INFO spawned: 'php' with pid 8
+2016-10-19 03:22:21,164 INFO spawned: 'sshd' with pid 9
+2016-10-19 03:22:22,205 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-10-19 03:22:22,205 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-10-19 03:23:20,482 CRIT Supervisor running as root (no user in config file)
+2016-10-19 03:23:20,486 INFO supervisord started with pid 1
+2016-10-19 03:23:21,490 INFO spawned: 'php' with pid 8
+2016-10-19 03:23:21,494 INFO spawned: 'sshd' with pid 9
+2016-10-19 03:23:22,550 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-10-19 03:23:22,550 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-10-19 03:24:00,836 CRIT Supervisor running as root (no user in config file)
+2016-10-19 03:24:00,841 INFO supervisord started with pid 1
+2016-10-19 03:24:01,853 INFO spawned: 'php' with pid 8
+2016-10-19 03:24:01,863 INFO spawned: 'sshd' with pid 9
+2016-10-19 03:24:02,926 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-10-19 03:24:02,926 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-10-19 04:46:28,576 CRIT Supervisor running as root (no user in config file)
+2016-10-19 04:46:28,579 INFO supervisord started with pid 1
+2016-10-19 04:46:29,614 INFO spawned: 'php' with pid 8
+2016-10-19 04:46:29,617 INFO spawned: 'sshd' with pid 9
+2016-10-19 04:46:30,990 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-10-19 04:46:30,990 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-10-19 06:40:53,090 CRIT Supervisor running as root (no user in config file)
+2016-10-19 06:40:53,093 INFO supervisord started with pid 1
+2016-10-19 06:40:54,161 INFO spawned: 'php' with pid 8
+2016-10-19 06:40:54,168 INFO spawned: 'sshd' with pid 9
+2016-10-19 06:40:55,245 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-10-19 06:40:55,245 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
